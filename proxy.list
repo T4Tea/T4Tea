@@ -1,6 +1,8 @@
 # 其他代理
 DOMAIN-SUFFIX,bitcomet.com
+DOMAIN-SUFFIX,copr.fedorainfracloud.org
 DOMAIN-SUFFIX,dl.flathub.org
+DOMAIN-SUFFIX,fedorainfracloud.org
 DOMAIN-SUFFIX,fuw11.cc
 DOMAIN-SUFFIX,iwara.tv
 DOMAIN-SUFFIX,jasmr.net
