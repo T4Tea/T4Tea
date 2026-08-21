@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @T4Tea
-- 👀 I’m interested in bilibili.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in AI.
+- 🌱 I’m currently learning vibe coding.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me. Star my repositories.
 
